@@ -9,7 +9,8 @@ end
 
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 def summon_captain_planet(planeteer_calls)
-  planeteer_calls.collect
+  planeteer_calls.collect do |planeteer_call|
+    
 
 end
 
