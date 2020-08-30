@@ -25,6 +25,7 @@ end
 snacks = ["crackers", "gouda", "thyme"]
 soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
 def find_the_cheese(locations)
- 
+  i = 0
   cheese_types = ["cheddar", "gouda", "camembert"]
+  
 end
