@@ -1,7 +1,7 @@
 dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
 
-def roll_call_dwarves(name)
-  
+def roll_call_dwarves(dwarves)
+  dwarves.do 
   
   
 end
