@@ -27,5 +27,6 @@ soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
 def find_the_cheese(locations)
   i = 0
   cheese_types = ["cheddar", "gouda", "camembert"]
-  while i < 0
+  while i < cheese_types.length
+  
 end
